@@ -248,6 +248,7 @@ small{
     font-size: 0.875rem;
     margin-top: 4px;
     display: block;
+    border: solid yellow 1px
 }
 
 button[type="submit"]{
